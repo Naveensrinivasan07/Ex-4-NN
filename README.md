@@ -1,6 +1,6 @@
 ## EX-4 Implementation of MLP with Backpropagation for Multiclassification
-## ENTER YOUR NAME: NAVEEN S
-## ENTER YOUR REGISTER NO.: 212222240070
+##  NAME: NAVEEN S
+## YOUR REGISTER NO.: 212222240070
 ## DATE:
 ## Aim:
 
